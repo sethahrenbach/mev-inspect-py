@@ -44,7 +44,6 @@ Example:
 ```
 export RPC_URL="http://111.111.111.111:8546"
 ```
-## https://eth-trace.gateway.pokt.network/v1/lb/61fb42096ce296003b9a84d5
 
 Next, start all services with:
 
